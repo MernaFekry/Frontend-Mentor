@@ -1,0 +1,43 @@
+:root{
+    --primaryColor1: hsl(179, 62%, 43%);
+    --primaryColor2:  hsl(71, 73%, 54%);
+    --neutralColor1:hsl(204, 43%, 93%) ;
+    --neutralColor2: hsl(218, 22%, 67%);
+    --secondaryColor: hsl(179, 59%, 52%);
+}
+
+.join_row{
+    background-color: var(--neutralColor1);
+}
+.subscription_column{
+    background-color: var(--primaryColor1);
+}
+.subscription_column span{
+    font-size: 20px;
+    color: rgb(229, 239, 245,0.4);
+}
+.subscription_column button{
+    background-color: var(--primaryColor2);
+    padding: 12px 90px !important;
+    box-shadow: 5px 5px var(--primaryColor1);
+}
+.whyus_column{
+    background-color: var(--secondaryColor);
+}
+.whyus_column p{
+    margin: 0;
+    color: var(--neutralColor1);
+}
+/* .component{
+    background-color: black;
+    border-radius: 5%;
+} */
+.join_row h3{
+    color: var(--primaryColor1);
+}
+.join_row h5{
+    color: var(--primaryColor2);
+}
+.component{
+    margin-top: 60px;
+}
