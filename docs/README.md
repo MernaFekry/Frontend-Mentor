@@ -4,8 +4,6 @@
 
 ## Welcome! 👋
 
-Thanks for checking out this front-end coding challenge.
-
 [Frontend Mentor](https://www.frontendmentor.io) challenges help you improve your coding skills by building realistic projects.
 
 **To do this challenge, you need a basic understanding of HTML and CSS.**
@@ -31,10 +29,10 @@ You will find all the required assets in the `/images` folder. The assets are al
 
 There is also a `style-guide.md` file containing the information you'll need, such as color palette and fonts.
 
-
-
 `README.md`
 
-Solved using HTML - CSS - Bootstrap[Grid system]
+## Read Me
+
+**Solved using HTML - CSS - Bootstrap [Grid system]**
 
 
